@@ -22,3 +22,5 @@ The Excel Salary Dashboard is a data visualization project designed to analyze a
 ✅ Enhance data accuracy and user interaction through data validation techniques.
 
 💼 Support job seekers in making informed career and salary decisions based on real data.
+
+
