@@ -1,5 +1,21 @@
 # Excel-Salary-Dashboard
 
-![1_Salary_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
 
 This Excel Salary Dashboard project was created to help job seekers explore salary trends across various data-related roles. Using real-world 2023 data, the dashboard provides insights into job titles, locations, salaries, and work schedules. It leverages Excel’s powerful features like charts, formulas, and data validation to present clean, interactive visuals that support career planning and informed decision-making.
+
+# Overview
+The Excel Salary Dashboard is a data visualization project designed to analyze and present salary insights for data-related jobs. It uses a structured 2023 dataset to display median salaries by job title, country, and schedule type. The dashboard includes interactive charts, filtered tables, and validated inputs to enhance user experience. Key Excel functions such as formulas, data validation, bar and map charts were used to build a dynamic and informative tool for job seekers and HR professionals.
+
+#Objectives
+
+📊 Visualize salary trends across various data-related job titles using Excel.
+
+🌍 Compare median salaries by country to understand geographic disparities.
+
+🕒 Analyze the impact of job schedule types (full-time, part-time, etc.) on salary.
+
+🧮 Utilize Excel functions to filter, calculate, and display relevant salary insights.
+
+✅ Enhance data accuracy and user interaction through data validation techniques.
+
+💼 Support job seekers in making informed career and salary decisions based on real data.
