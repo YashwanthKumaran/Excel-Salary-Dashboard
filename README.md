@@ -36,3 +36,13 @@ The Excel Salary Dashboard is a data visualization project designed to analyze a
 - **MEDIAN()**: To calculate median salaries.
 - **IF()** and **FILTER()**: For multi-criteria filtering and calculations.
 - **Data Validation**: For user input consistency and ease of use.
+
+#Conclusion
+The Salary Dashboard provides an interactive tool for analyzing data science job salaries based on job titles, locations, and schedule types. Using Excel features like charts, formulas, and data validation, the dashboard offers insights into salary trends, allowing users to compare salaries globally and by role. It helps job seekers make informed career decisions by highlighting key salary patterns and regional disparities, showcasing the power of Excel for data analysis and visualization.
+
+
+
+
+
+
+
