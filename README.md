@@ -30,3 +30,9 @@ The Excel Salary Dashboard is a data visualization project designed to analyze a
 - Data validation for clean inputs
 - Visual breakdown by country and job schedule
 
+# Technologies Used
+- **Excel**: For building the dashboard, charts, and data analysis.
+- **Map Chart**: For visualizing global salary data.
+- **MEDIAN()**: To calculate median salaries.
+- **IF()** and **FILTER()**: For multi-criteria filtering and calculations.
+- **Data Validation**: For user input consistency and ease of use.
